@@ -1,2 +1,2 @@
 # Macies.lv
-Macies.lv
+Landing Page
